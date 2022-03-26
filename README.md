@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hoa Binh University](https://daihochoabinh.edu.vn) (ETU).
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NodeJS**
 
 
 ## 📫 How to reach me:
@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/office/40/000000/react.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40px", height="40px" alt="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
