@@ -10,9 +10,6 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100015052710344" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
   <a href="https://github.com/Adchau2k1" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
