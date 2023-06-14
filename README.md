@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adchau2k1" alt="adchau2k1" /> <img src="https://badges.pufler.dev/repos/adchau2k1" alt="Adchau2k1" /> </p>
 
-- ✍ I'm a student of: [Hoa Binh University](https://daihochoabinh.edu.vn) (ETU).
+- ✍ I'm a student of: [Hoa Binh University](http://daihochoabinh.edu.vn) (ETU).
 
 - 🌱 I’m currently learning **NodeJS**
 
