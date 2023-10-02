@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hoa Binh University](http://daihochoabinh.edu.vn) (ETU).
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **GoLang**
 
 
 ## 📫 How to reach me:
